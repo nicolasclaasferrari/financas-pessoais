@@ -1,0 +1,4 @@
+RELAT�RIO
+
+['27:11:2008', 'receita', 2000.0, 'compra', 'terno']
+['26:06:2026', 'despesa', 500.0, 'venda', 'tenis']
