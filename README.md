@@ -16,7 +16,7 @@ python financas.py
 - Relatório: calcula o total de receitas, despesas, saldo e o total por categoria.
 - Exportar: salva todos os lançamentos em um arquivo `relatorio.txt`.
 - Sair: encerra o programa.
-
+(NESSA PARTE DE FUNCIONAR O CODIGO COLOQUE NA ABA DO PYCHARM DO LANCAMENTOS.JSON E RELATORIO.TXT; (SEMPRE COLOQUE NO COMEÇO ANTES DE RODAR O FINANCIAS.PY COLOQUE [] ISSO NOS LANCAMENTOS.JSON E RELATORIO.TXT)).
 ## Funções implementadas
 
 Este projeto foi desenvolvido utilizando a estrutura principal do programa (`while`) e blocos `if/elif`, sem a criação de funções separadas.
